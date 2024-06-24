@@ -16,7 +16,7 @@ pip install openpyxl selenium
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/GabriellaFsena/Automatacao.git
+git clone https://github.com/GabriellaFsena/Automacao.git
 cd nome-do-repositorio
 Coloque sua planilha Excel (produtos_ficticios.xlsx) na raiz do projeto. Certifique-se de que ela tenha as seguintes colunas: Nome do Produto, Descrição, Categoria, Código do Produto, Peso, Dimensões, Preço, Quantidade em Estoque, Data de Validade, Cor, Tamanho, Material, Fabricante, País de Origem, Observações, Código de Barras, Localização no Armazém.
 
